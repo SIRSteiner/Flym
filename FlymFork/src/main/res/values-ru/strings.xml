@@ -364,9 +364,9 @@
     <string name="loadingLink">Загрузка ссылки</string>
     <string name="loadLink">Читать сейчас</string>
     <string name="loadLinkLater">Читать позже</string>
-    <string name="addFeed">Добавить ленту</string>
+    <string name="addFeed">Add a feed</string>
     <string name="externalLinks">Внешние ссылки</string>
-    <string name="markAllAsRead">Отметить все как прочитанное</string>
+    <string name="markAllAsRead">Mark all as read</string>
     <string name="pageUp">Страница вверх / Свайп для отметки избранной</string>
     <string name="pageDown">Страница вниз</string>
     <string name="fullScreenToggle">Пркл. полный экран</string>
@@ -422,7 +422,7 @@
     <string name="auto_backup_opml_file_created">Создан файл автоматической резервной копии: </string>
     <string name="use_standard_file_manager">Стандартный файловый менеджер</string>
     <string name="use_standard_file_manager_descr">иначе выбирать opml файл для импорта с помощью встроеннного диалога из папки приложения на карте памяти</string>
-    <string name="settings">Настройки</string>
+    <string name="settings">Settings</string>
     <string name="entry_go_prev">Пред. статья</string>
     <string name="entry_go_next">След. статья</string>
     <plurals name="number_of_new_entries">
