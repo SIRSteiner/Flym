@@ -331,9 +331,9 @@
     <string name="loadingLink">Wczytuję linki&#8230;</string>
     <string name="loadLink">Czytaj&#8230;</string>
     <string name="loadLinkLater">Przeczytaj później.</string>
-    <string name="addFeed">Dodaj kanał.</string>
+    <string name="addFeed">Add a feed</string>
     <string name="externalLinks">Linki zewnętrzne.</string>
-    <string name="markAllAsRead">Oznacz wszystkie jako przeczytane.</string>
+    <string name="markAllAsRead">Mark all as read</string>
     <string name="pageUp">strona w górę / przesuń w dół by o(d)znaczyć gwiazdką</string>
     <string name="pageDown">strona w dół</string>
     <string name="fullScreenToggle">przełącznik pełnego ekranu</string>
@@ -389,7 +389,7 @@
     <string name="auto_backup_opml_file_created">Kopia zapasowa .opml utworzona:</string>
     <string name="use_standard_file_manager">Użyj standardowego menedżera plików</string>
     <string name="use_standard_file_manager_descr">w przeciwnym razie wybierz plik .opml z folderu feedex</string>
-    <string name="settings">Ustawienia</string>
+    <string name="settings">Settings</string>
     <string name="entry_go_prev">Prev page</string>
     <string name="entry_go_next">Next page</string>
     <plurals name="number_of_new_entries">
