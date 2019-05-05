@@ -257,7 +257,7 @@
     <string name="show_group_entrries_count">Licznik artykułów w grupie</string>
     <string name="show_group_entries_count_descr">może ograniczyć wydajność</string>
     <string name="settings_category_article_text">Tekst artykułu</string>
-    <string name="settings_category_article_text_summary">Appearance of article\'s text</string>
+    <string name="settings_category_article_text_summary">Treść artykułu</string>
     <string name="settings_display_text_color_description">(0..255)</string>
     <string name="settings_display_images">Wyświetlaj obrazki</string>
     <string name="settings_display_images_description">Wyświetlaj obrazki w artykułach.</string>
