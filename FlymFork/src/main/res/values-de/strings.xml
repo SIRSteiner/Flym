@@ -392,6 +392,7 @@
     <string name="settings">Settings</string>
     <string name="entry_go_prev">Artikel zurück</string>
     <string name="entry_go_next">Artikel vor</string>
+    <string name="new_test_string">New test string</string>
     <plurals name="number_of_new_entries">
         <item quantity="one">Ein neuer Artikel.</item>
         <item quantity="other">%d neue Artikel.</item>
