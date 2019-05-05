@@ -331,9 +331,9 @@
     <string name="loadingLink">Links laden</string>
     <string name="loadLink">Jetzt Lesen</string>
     <string name="loadLinkLater">Später lesen</string>
-    <string name="addFeed">Feed hinzufügen</string>
+    <string name="addFeed">Add a feed</string>
     <string name="externalLinks">Externe Links</string>
-    <string name="markAllAsRead">Alle als gelesen markieren</string>
+    <string name="markAllAsRead">Mark all as read</string>
     <string name="pageUp">Seite zurück, Wischen für Fav.</string>
     <string name="pageDown">Seite vor</string>
     <string name="fullScreenToggle">Vollbild umschalten</string>
@@ -389,7 +389,7 @@
     <string name="auto_backup_opml_file_created">Automatisches Backup erstellt: </string>
     <string name="use_standard_file_manager">Standard Dateimanager verwenden</string>
     <string name="use_standard_file_manager_descr">andernfalls die zu importierende .opml-Datei auswählen - nur außerhalb des feedex-Ordners (über den internen Dialog)</string>
-    <string name="settings">Einstellungen</string>
+    <string name="settings">Settings</string>
     <string name="entry_go_prev">Artikel zurück</string>
     <string name="entry_go_next">Artikel vor</string>
     <plurals name="number_of_new_entries">
