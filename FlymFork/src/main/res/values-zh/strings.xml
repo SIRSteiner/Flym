@@ -331,9 +331,9 @@
     <string name="loadingLink">正加载链接</string>
     <string name="loadLink">现在读</string>
     <string name="loadLinkLater">稍后读</string>
-    <string name="addFeed">添加一个feed</string>
+    <string name="addFeed">Add a feed</string>
     <string name="externalLinks">外部链接</string>
-    <string name="markAllAsRead">标记所有文章为已读</string>
+    <string name="markAllAsRead">Mark all as read</string>
     <string name="pageUp">上/下滑动来标星或取消标星</string>
     <string name="pageDown">移至下一页</string>
     <string name="fullScreenToggle">全屏切换</string>
@@ -389,7 +389,7 @@
     <string name="auto_backup_opml_file_created">Auto backup .opml file created:</string>
     <string name="use_standard_file_manager">Use a standard file manager</string>
     <string name="use_standard_file_manager_descr">otherwise select .opml file to import -  out of feedex folder only (via inner dialog)</string>
-    <string name="settings">设置</string>
+    <string name="settings">Settings</string>
     <string name="entry_go_prev">Prev page</string>
     <string name="entry_go_next">Next page</string>
     <plurals name="number_of_new_entries">
