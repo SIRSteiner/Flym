@@ -395,7 +395,8 @@
     <string name="settings">Settings</string>
     <string name="entry_go_prev">Prev page</string>
     <string name="entry_go_next">Next page</string>
-    <string name="new_test_string">New test string</string>
+    <string name="new_test_string">New test string - changed</string>
+    <string name="another_new_test_string">Another new test string</string>
     <plurals name="number_of_new_entries">
         <item quantity="one">Jeden nový článok</item>
         <item quantity="few">%d nové články</item>
