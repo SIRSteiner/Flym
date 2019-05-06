@@ -392,7 +392,7 @@
     <string name="settings">Settings</string>
     <string name="entry_go_prev">Prev page</string>
     <string name="entry_go_next">Next page</string>
-    <string name="another_new_test_string">I changed this string and removed another</string>
+    <string name="another_new_test_string">I changed this string</string>
     <plurals name="number_of_new_entries">
         <item quantity="other">%d篇新文章.</item>
     </plurals>
