@@ -16,7 +16,7 @@
     <string-array name="settings_keep_times">
         <item>1 hour</item>
         <item>12 hours</item>
-        <item>1 day</item>
+        <item>1 giorno</item>
         <item>2 giorni</item>
         <item>4 giorni</item>
         <item>1 settimana</item>
