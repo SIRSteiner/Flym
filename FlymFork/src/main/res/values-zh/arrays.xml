@@ -36,4 +36,8 @@
         <item>仅通过WIFI</item>
         <item>始终</item>
     </string-array>
+    <string-array name="themeList">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
 </resources>
