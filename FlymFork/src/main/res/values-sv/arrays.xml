@@ -36,4 +36,8 @@
         <item>Endast via Wi-Fi</item>
         <item>Alltid</item>
     </string-array>
+    <string-array name="themeList">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
 </resources>
