@@ -36,4 +36,8 @@
         <item>Tylko przez Wi-Fi</item>
         <item>Zawsze</item>
     </string-array>
+    <string-array name="themeList">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
 </resources>
