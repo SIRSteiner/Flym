@@ -275,8 +275,8 @@
     <string name="entry_text_align_justify">文本调整</string>
     <string name="entry_text_align_justify_description">否则向左对齐</string>
     <string name="article_text_footer_show_clock">Footer-Clock</string>
-    <string name="article_text_footer_show_clock_description">Displays the current time at the lower left corner in fullscreen mode</string>
-    <string name="settings_clock_size">Text size of Footer-Clock</string>
+    <string name="article_text_footer_show_clock_description">Displays the current time at the bottom left corner in fullscreen mode</string>
+    <string name="settings_clock_size">Text size of the Footer-Clock</string>
     <string name="article_text_footer_show_progress">Reading progress bar</string>
     <string name="article_text_footer_progress_height">Progress bar height</string>
     <string name="settings_category_operation">Operation</string>
@@ -291,8 +291,8 @@
     <string name="brightness_gesture_descr">Check this to adjust the brightness by swiping up/down along the left edge of the screen</string>
     <string name="brightness_with_dim_activity">Software overlay</string>
     <string name="brightness_with_dim_activity_descr">Dim brightness by reducing transparency of the window background color (check it if the brightness change doesn\'t work)</string>
-    <string name="settings_category_behavior">Notifications \u0026 Behavior</string>
-    <string name="settings_category_behavior_summary">Notifications on new entries and behavior while using this app</string>
+    <string name="settings_category_behavior">Notifications \u0026 behavior</string>
+    <string name="settings_category_behavior_summary">Notifications on new articles and the app\'s behavior</string>
     <string name="settings_notifications_enabled">启用通知</string>
     <string name="settings_notifications_enabled_description">启用新条目通知</string>
     <string name="settings_notifications_ringtone">响铃</string>
@@ -308,7 +308,7 @@
     <string name="auto_unstart_at_bottom">完成阅读后自动取消文章加星</string>
     <string name="auto_unstart_at_bottom_descr">当文章到达底部时，自动从收藏夹中删除文章</string>
     <string name="settings_category_advanced">Advanced</string>
-    <string name="settings_category_advanced_summary">Additional features like backup, filters and more</string>
+    <string name="settings_category_advanced_summary">Additional features (such as backup, filters and more)</string>
     <string name="settings_autobackup_enabled">Enable automatic backup</string>
     <string name="settings_autobackup_enabled_descr">To periodically save Your feed and favorite articles list into an .opml file</string>
     <string name="settings_category_content_presentation">内容呈现</string>
@@ -396,16 +396,18 @@
     <string name="use_standard_file_manager">Use a standard file manager</string>
     <string name="use_standard_file_manager_descr">otherwise select .opml file to import -  out of feedex folder only (via inner dialog)</string>
     <string name="settings">Settings</string>
-    <string name="entry_go_prev">Prev page</string>
+    <string name="entry_go_prev">Previous page</string>
     <string name="entry_go_next">Next page</string>
-    <string name="colorSlotSaveLongTapHint">Tip: To save the current color make a long tap on one of the cells</string>
-    <string name="colorSlotSaved">Color was saved to cell</string>
+    <string name="colorSlotSaveLongTapHint">Tip: to save the current color make a long tap on one of the cells</string>
+    <string name="colorSlotSaved">Color was saved to the cell</string>
     <string name="text">Text</string>
     <string name="background1">Background</string>
     <string name="textColor">Text color</string>
     <string name="customColors">Custom font colors</string>
-    <string name="fontColorsNotFromThemeSummary">overwise use theme colors</string>
+    <string name="fontColorsNotFromThemeSummary">otherwise use theme colors</string>
     <string name="theme">Theme</string>
+    <string name="article_text_footer_clock_color">Clock color</string>
+    <string name="article_text_footer_progress_color">Progress color</string>
     <plurals name="number_of_new_entries">
         <item quantity="other">%d篇新文章.</item>
     </plurals>
