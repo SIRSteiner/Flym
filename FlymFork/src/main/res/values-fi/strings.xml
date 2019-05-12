@@ -101,6 +101,7 @@
     <br/>
     ]]></string>
     <string name="app_name">Handy News Reader</string>
+    <string name="about_title_version">version</string>
     <string name="about_flym">About the app / Help / Contact the developer </string>
     <string name="welcome_title">Tervetuloa Handy News Reader:iin. Haluaisitko lisätä syötteen?</string>
     <string name="never">ei koskaan</string>
