@@ -84,11 +84,9 @@
     <string name="welcome_title">Vítejte v aplikaci Handy News Reader. Chcete přidat nový zdroj?</string>
     <string name="never">nikdy</string>
     <string name="update">aktualizováno</string>
-    <string name="updating">Updating&#8230;</string>
     <string name="colon">:\u00A0</string>
     <string name="menu_settings">Nastavení</string>
     <string name="menu_refresh">Obnovit</string>
-    <string name="menu_all_read">Označit vše jako přečtené</string>
     <string name="flym_feeds">Handy News Reader zdroje</string>
     <string name="error">Chyba</string>
     <string name="network_error">Síť není nastavena</string>
@@ -212,8 +210,6 @@
     <string name="settings_category_refresh">Automatické načítání</string>
     <string name="settings_category_refresh_summary">Automatic refresh and time to keep of articles</string>
     <string name="settings_refresh_enabled">Povolit automatické načítání</string>
-    <string name="settings_refresh_enabled_description">Povolí automatické načítání zdrojů
-    </string>
     <string name="settings_refresh_interval">Interval načítání</string>
     <string name="settings_min_update_battery_level">Min. battery level</string>
     <string name="settings_refresh_only_selected">Only selected</string>
@@ -241,7 +237,6 @@
     <string name="show_article_icon">Show article icon</string>
     <string name="show_article_icon_descr">Turn off to gain more space of the screen</string>
     <string name="show_article_url">Show article URL</string>
-    <string name="show_article_url_descr">in article list</string>
     <string name="settings_display_oldest_first">Pořadí článků</string>
     <string name="settings_display_oldest_first_description">Zobrazovat nejdříve starší články</string>
     <string name="show_mark_all_as_read_button">Mark all as read button</string>
@@ -262,7 +257,6 @@
     <string name="settings_display_images">Zobrazovat obrázky</string>
     <string name="settings_display_images_description">Zobrazovat obrázky ve článcích</string>
     <string name="settings_display_entries_fullscreen">Články na celou obrazovku</string>
-    <string name="settings_display_entries_fullscreen_description">Automaticky zobrazovat články na celou obrazovku</string>
     <string name="settings_entry_margins">Margins</string>
     <string name="settings_entry_margins_description">Left | right</string>
     <string name="entry_text_align_justify">Justified text</string>
@@ -330,7 +324,6 @@
     <string name="setupConnection">Setup connection</string>
     <string name="settings_content_extract_rules">Content extract rules</string>
     <string name="settings_content_extract_rules_description">Set for each site (base HTML knowledge needed)</string>
-    <string name="settings_tap_zones_description">of entry view window</string>
     <string name="settings_tap_zones_dialogtitle">only for info, changes unavailable</string>
     <string name="downloadNext">"Download next "</string>
     <string name="loadingLink">Loading links</string>
@@ -352,7 +345,6 @@
     <string name="auto_image_load">Auto images load</string>
     <string name="show_progress_info">Detailed progress technical info</string>
     <string name="show_progress_info_descr">Show detailed info about current operation</string>
-    <string name="filter_apply_to_url">Apply to URL</string>
     <string name="vibrate_on_article_list_entry_swype">Vibrate on swipe</string>
     <string name="vibrate_on_article_list_entry_swype_summary">On article list entry and in article text window while starring</string>
     <string name="entry_marked_unfavourite">The article was removed from Favorites</string>
