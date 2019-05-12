@@ -99,6 +99,7 @@
 
     ]]></string>
     <string name="app_name">Handy News Reader</string>
+    <string name="about_title_version">version</string>
     <string name="about_flym">关于App / 帮助 / 联系开发者 </string>
     <string name="welcome_title">欢迎来到 Handy News Reader. 您想要添加一个Feed吗?</string>
     <string name="never">从不</string>
