@@ -84,11 +84,9 @@
     <string name="welcome_title">Tervetuloa Handy News Reader:iin. Haluaisitko lisätä syötteen?</string>
     <string name="never">ei koskaan</string>
     <string name="update">Päivitetty</string>
-    <string name="updating">Updating&#8230;</string>
     <string name="colon">:\u00A0</string>
     <string name="menu_settings">Asetukset</string>
     <string name="menu_refresh">Päivitä</string>
-    <string name="menu_all_read">Merkitse kaikki luetuiksi</string>
     <string name="flym_feeds">Handy News Reader-syötteet</string>
     <string name="error">Virhe</string>
     <string name="network_error">Ei verkkoyhteyttä</string>
@@ -208,8 +206,6 @@
     <string name="settings_category_refresh">Automaattinen päivitys</string>
     <string name="settings_category_refresh_summary">Automatic refresh and time to keep of articles</string>
     <string name="settings_refresh_enabled">Päivitä automaattisesti</string>
-    <string name="settings_refresh_enabled_description">Päivitä kaikki syötteet automaattisesti
-    </string>
     <string name="settings_refresh_interval">Päivitysväli</string>
     <string name="settings_min_update_battery_level">Min. battery level</string>
     <string name="settings_refresh_only_selected">Only selected</string>
@@ -236,7 +232,6 @@
     <string name="show_article_icon">Show article icon</string>
     <string name="show_article_icon_descr">Turn off to gain more space of the screen</string>
     <string name="show_article_url">Show article URL</string>
-    <string name="show_article_url_descr">in article list</string>
     <string name="settings_display_oldest_first">Näytä vanhimmat ensin</string>
     <string name="settings_display_oldest_first_description">Näytä vanhimmat artikkelit ensin</string>
     <string name="show_mark_all_as_read_button">Mark all as read button</string>
@@ -257,7 +252,6 @@
     <string name="settings_display_images">Näytä kuvat</string>
     <string name="settings_display_images_description">Näytä kuvat artikkeleissa</string>
     <string name="settings_display_entries_fullscreen">Automaattinen kokoruututila</string>
-    <string name="settings_display_entries_fullscreen_description">Näytä artikkelit automaattisesti kokoruututilassa</string>
     <string name="settings_entry_margins">Margins</string>
     <string name="settings_entry_margins_description">Left | right</string>
     <string name="entry_text_align_justify">Justified text</string>
@@ -324,7 +318,6 @@
     <string name="setupConnection">Setup connection</string>
     <string name="settings_content_extract_rules">Content extract rules</string>
     <string name="settings_content_extract_rules_description">Set for each site (base HTML knowledge needed)</string>
-    <string name="settings_tap_zones_description">of entry view window</string>
     <string name="settings_tap_zones_dialogtitle">only for info, changes unavailable</string>
     <string name="downloadNext">"Download next "</string>
     <string name="loadingLink">Loading links</string>
@@ -346,7 +339,6 @@
     <string name="auto_image_load">Auto images load</string>
     <string name="show_progress_info">Detailed progress technical info</string>
     <string name="show_progress_info_descr">Show detailed info about current operation</string>
-    <string name="filter_apply_to_url">Apply to URL</string>
     <string name="vibrate_on_article_list_entry_swype">Vibrate on swipe</string>
     <string name="vibrate_on_article_list_entry_swype_summary">On article list entry and in article text window while starring</string>
     <string name="entry_marked_unfavourite">The article was removed from Favorites</string>
