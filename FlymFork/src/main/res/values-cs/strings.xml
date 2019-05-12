@@ -101,6 +101,7 @@
     <br/>
     ]]></string>
     <string name="app_name">Handy News Reader</string>
+    <string name="about_title_version">version</string>
     <string name="about_flym">O aplikaci / Help / Contact developer </string>
     <string name="welcome_title">Vítejte v aplikaci Handy News Reader. Chcete přidat nový zdroj?</string>
     <string name="never">nikdy</string>
