@@ -84,11 +84,9 @@
     <string name="welcome_title">Bienvenue sur Handy News Reader. Voulez vous ajouter un flux ?</string>
     <string name="never">jamais</string>
     <string name="update">Mise à jour</string>
-    <string name="updating">Updating&#8230;</string>
     <string name="colon">\u00A0:\u00A0</string>
     <string name="menu_settings">Paramètres</string>
     <string name="menu_refresh">Actualiser</string>
-    <string name="menu_all_read">Marquer tout comme lu</string>
     <string name="flym_feeds">Flux Handy News Reader</string>
     <string name="error">Erreur</string>
     <string name="network_error">Pas de connexion disponible</string>
@@ -212,8 +210,6 @@
     <string name="settings_category_refresh">Mise à jour automatique</string>
     <string name="settings_category_refresh_summary">Automatic refresh and time to keep of articles</string>
     <string name="settings_refresh_enabled">Activer la mise à jour auto</string>
-    <string name="settings_refresh_enabled_description">Active la mise à jour automatique des flux
-    </string>
     <string name="settings_refresh_interval">Intervalle de mise à jour</string>
     <string name="settings_min_update_battery_level">Min. battery level</string>
     <string name="settings_refresh_only_selected">Only selected</string>
@@ -242,7 +238,6 @@
     <string name="show_article_icon">Show article icon</string>
     <string name="show_article_icon_descr">Turn off to gain more space of the screen</string>
     <string name="show_article_url">Show article URL</string>
-    <string name="show_article_url_descr">in article list</string>
     <string name="settings_display_oldest_first">Ordre des articles</string>
     <string name="settings_display_oldest_first_description">Affiche les plus vieux en premier</string>
     <string name="show_mark_all_as_read_button">Mark all as read button</string>
@@ -263,7 +258,6 @@
     <string name="settings_display_images">Display images</string>
     <string name="settings_display_images_description">Display images in entries</string>
     <string name="settings_display_entries_fullscreen">Plein écran auto</string>
-    <string name="settings_display_entries_fullscreen_description">Affiche automatiquement les articles en plein écran</string>
     <string name="settings_entry_margins">Margins</string>
     <string name="settings_entry_margins_description">Left | right</string>
     <string name="entry_text_align_justify">Justified text</string>
@@ -332,7 +326,6 @@
     <string name="setupConnection">Setup connection</string>
     <string name="settings_content_extract_rules">Content extract rules</string>
     <string name="settings_content_extract_rules_description">Set for each site (base HTML knowledge needed)</string>
-    <string name="settings_tap_zones_description">of entry view window</string>
     <string name="settings_tap_zones_dialogtitle">only for info, changes unavailable</string>
     <string name="downloadNext">"Download next "</string>
     <string name="loadingLink">Loading links</string>
@@ -354,7 +347,6 @@
     <string name="auto_image_load">Auto images load</string>
     <string name="show_progress_info">Detailed progress technical info</string>
     <string name="show_progress_info_descr">Show detailed info about current operation</string>
-    <string name="filter_apply_to_url">Apply to URL</string>
     <string name="vibrate_on_article_list_entry_swype">Vibrate on swipe</string>
     <string name="vibrate_on_article_list_entry_swype_summary">On article list entry and in article text window while starring</string>
     <string name="entry_marked_unfavourite">The article was removed from Favorites</string>
