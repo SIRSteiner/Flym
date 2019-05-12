@@ -90,6 +90,7 @@
     <br/>
     ]]></string>
     <string name="app_name">Handy News Reader</string>
+    <string name="about_title_version">version</string>
     <string name="about_flym">Σχετικά με την εφαρμογή / Βοήθεια / Επικοινωνία με τον προγραματιστή </string>
     <string name="welcome_title">Καλώς ήρθατε στο Handy News Reader. Θα θέλατε να προσθέσετε μία ροή;</string>
     <string name="never">ποτέ</string>
