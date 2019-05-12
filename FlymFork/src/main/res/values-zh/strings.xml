@@ -104,11 +104,9 @@
     <string name="welcome_title">欢迎来到 Handy News Reader. 您想要添加一个Feed吗?</string>
     <string name="never">从不</string>
     <string name="update">更新</string>
-    <string name="updating">正在更新&#8230;</string>
     <string name="colon">:\u00A0</string>
     <string name="menu_settings">设置</string>
     <string name="menu_refresh">刷新</string>
-    <string name="menu_all_read">标记所有文章为已读</string>
     <string name="flym_feeds">Handy News Reader Feeds</string>
     <string name="error">错误</string>
     <string name="network_error">未设置网络</string>
@@ -224,7 +222,6 @@
     <string name="settings_category_refresh">自动刷新</string>
     <string name="settings_category_refresh_summary">Automatic refresh and time to keep of articles</string>
     <string name="settings_refresh_enabled">开启自动刷新</string>
-    <string name="settings_refresh_enabled_description">开启feeds的自动刷新</string>
     <string name="settings_refresh_interval">刷新间隔</string>
     <string name="settings_min_update_battery_level">最低电量</string>
     <string name="settings_refresh_only_selected">仅选中</string>
@@ -249,7 +246,6 @@
     <string name="show_article_icon">显示文章图标</string>
     <string name="show_article_icon_descr">关闭以获得更多屏幕空间</string>
     <string name="show_article_url">显示文章URL</string>
-    <string name="show_article_url_descr">在文章列表中</string>
     <string name="settings_display_oldest_first">文章顺序</string>
     <string name="settings_display_oldest_first_description">首先显示最老条目</string>
     <string name="show_mark_all_as_read_button">标记所有为已读按钮</string>
@@ -270,7 +266,6 @@
     <string name="settings_display_images">显示图片</string>
     <string name="settings_display_images_description">在条目中显示图片</string>
     <string name="settings_display_entries_fullscreen">自动全屏显示条目</string>
-    <string name="settings_display_entries_fullscreen_description">自动全屏显示条目</string>
     <string name="settings_entry_margins">页边</string>
     <string name="settings_entry_margins_description">左 | 右</string>
     <string name="entry_text_align_justify">文本调整</string>
@@ -333,7 +328,6 @@
     <string name="setupConnection">建立连接</string>
     <string name="settings_content_extract_rules">内容提取规则</string>
     <string name="settings_content_extract_rules_description">为每个站点设置规则 (需要基本的HTML知识)</string>
-    <string name="settings_tap_zones_description">of entry view window</string>
     <string name="settings_tap_zones_dialogtitle">仅提供信息，更改不可用</string>
     <string name="downloadNext">"Download Next"</string>
     <string name="loadingLink">正加载链接</string>
@@ -355,7 +349,6 @@
     <string name="auto_image_load">自动图片载入</string>
     <string name="show_progress_info">详细进度技术信息</string>
     <string name="show_progress_info_descr">显示关于当前操作的详细信息</string>
-    <string name="filter_apply_to_url">应用到URL</string>
     <string name="vibrate_on_article_list_entry_swype">滑动时震动</string>
     <string name="vibrate_on_article_list_entry_swype_summary">On article list entry and in article text window while starring</string>
     <string name="entry_marked_unfavourite">文章从收藏夹中被删除</string>
