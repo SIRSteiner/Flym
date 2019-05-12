@@ -101,6 +101,7 @@
     <br/>
     ]]></string>
     <string name="app_name">Handy News Reader</string>
+    <string name="about_title_version">version</string>
     <string name="about_flym">About the app / Help / Contact the developer </string>
     <string name="welcome_title">플라임 사용을 환영합니다. 피드를 추가하시겠습니까?</string>
     <string name="never">하지 않음</string>
